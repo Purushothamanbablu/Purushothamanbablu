@@ -7,9 +7,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 **Currently Learning**: Advanced Web Development   
+- 🌱 **Currently Learning**: Advanced Concepts   
 - 👯 **Collaboration Goals**: Building innovative and impactful projects  
-- 💬 **Ask Me About**: Web Development, Full-Stack Development, and Dev Tools  
 - ⚡ **Fun Fact**: I love experimenting with frameworks and designing workflows
   
 ---
