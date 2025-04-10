@@ -21,7 +21,6 @@
   <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
   <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
   <img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
-  <img height="40" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" />
 </p>
 
