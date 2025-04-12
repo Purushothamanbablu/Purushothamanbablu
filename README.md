@@ -11,7 +11,6 @@
 ### 👨‍💻 About Me  
 - 🌱 **Currently Learning**: Advanced Concepts   
 - 👯 **Collaboration Goals**: Building innovative and impactful projects  
-- ⚡ **Fun Fact**: I love experimenting with frameworks and designing workflows
   
 ---
 
