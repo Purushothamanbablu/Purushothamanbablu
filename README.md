@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm **Purushothaman**  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=435&lines=Front+End+Developer;Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Saira&weight=600&size=30&pause=1000&color=F70000&width=435&lines=FRONT-END+DEVELOPER)](https://git.io/typing-svg)
 ---
 🔹 Passionate about **Front-End Development**  
 🔹 Skilled at creating scalable web applications  
