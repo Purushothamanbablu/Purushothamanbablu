@@ -23,13 +23,14 @@
   <img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
   <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
   <img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" />
+    <img height="40" src="https://img.icons8.com/color/48/000000/angular.png" alt="Angular" title="Angular" />
 </p>
 
 ---
 
 ### 🛠️ Tools I Use  
 - **Editor:** Visual Studio Code  
-- **Libraries & Frameworks:** react, bootstrap, npm
+- **Libraries & Frameworks:** Angular, React, Bootstrap, npm
   
 ---
 
