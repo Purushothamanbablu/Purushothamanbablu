@@ -20,7 +20,7 @@
   <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
   <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
   <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-   <img height="40" src="[https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)" alt="Typescript" title="Typescript" />
+   <img height="40" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="Typescript" title="Typescript" />
   <img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
   <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
       <img height="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000" alt="Angular" title="Angular" />
