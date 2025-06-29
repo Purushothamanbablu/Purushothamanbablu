@@ -25,7 +25,7 @@
   <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
       <img height="40" src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000" alt="Angular" title="Angular" />
 
-  <img height="40" src="[https://img.icons8.com/color/48/000000/github.png](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000)" alt="GitHub" title="GitHub" />
+  <img height="40" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="GitHub" title="GitHub" />
   
 
 </p>
